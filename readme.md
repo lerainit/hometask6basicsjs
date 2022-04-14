@@ -9,7 +9,7 @@
 
 ```js
 
-let workplace = "factoty "Burevisnyk" ";// ошибка 
+let workplace = "factory "Burevisnyk" ";// ошибка 
 
 // интерпретатор воспринимает кавычки как окончание строки
 
