@@ -1,6 +1,4 @@
 
-
-
 let myUser = createNewUser();
 
 function createNewUser(name = null, surname = null, birthDate = null) {
